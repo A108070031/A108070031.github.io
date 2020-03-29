@@ -12,5 +12,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 bg-primary{
      background-image:url("img/3px-tile.png");
-     background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");  
+     background-color: #a8b4ff;
+     background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
 }
