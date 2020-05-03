@@ -21,3 +21,6 @@ tr:nth-child(even) {
 tr:hover{
   font-weight:bold
 }
+.gallerytile{
+  color:#9F88FF;
+}
