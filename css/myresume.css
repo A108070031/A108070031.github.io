@@ -26,7 +26,47 @@ tr:hover{
   font-size:25px;
 }
 .content_1{
-  border:1px;
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_2{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_3{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_4{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_5{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_6{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_7{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_8{
+  border:3px;
+  border-style: solid;
+  padding:2px 
+}
+.content_9{
+  border:3px;
   border-style: solid;
   padding:2px 
 }
