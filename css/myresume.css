@@ -25,3 +25,8 @@ tr:hover{
   color:#9F88FF;
   font-size:25px;
 }
+.content_1{
+  border:1px;
+  border-style: solid;
+  padding:2px 
+}
