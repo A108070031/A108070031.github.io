@@ -70,3 +70,6 @@ tr:hover{
   border-style: solid;
   padding:2px 
 }
+.gallery{
+  display:flex; 
+}
