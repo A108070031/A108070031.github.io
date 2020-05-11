@@ -29,11 +29,11 @@ tr:hover{
 
 .content {
   background-color:#FFFFFF;
-  width: 300px;
-  height: 300px;
+  width:500px;
+  height:500px;
   border: 15px solid #9F88FF;
   padding:10px;
-  margin: 20px;
+  margin: 50px;
   display: inline-block;
 }
           
