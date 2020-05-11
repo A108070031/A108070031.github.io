@@ -35,5 +35,6 @@ tr:hover{
   padding:21px;
   margin: 5px;
   display: inline-block;
+  flex wrap:wrap;
 }
           
